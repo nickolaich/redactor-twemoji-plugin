@@ -1,5 +1,5 @@
 # Redactor feature image plugin
-[Redactor](https://imperavi.com/redactor/) plugin for adding emoji from twitter [Twemoji](https://github.com/twitter/twemoji). see all emoji http://twitter.github.io/twemoji/1/test/preview.html
+It's a fork from [Plugin](https://github.com/sakp/redactor-twemoji-plugin) to version 1.4 of [Redactor](https://imperavi.com/redactor/) for adding emoji from twitter [Twemoji](https://github.com/twitter/twemoji). see all emoji http://twitter.github.io/twemoji/1/test/preview.html
 
 ## Usage
 
