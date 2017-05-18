@@ -9,7 +9,7 @@
                 },
                 twemojiurl: 'https://twemoji.maxcdn.com/twemoji.min.js',
                 twemojiconfig: {ext: '.png', size: 36},
-                toolbaricon: '/images/twemoji-36.png',
+                toolbaricon: '/twemoji-36.png',
                 toolbariconwidth: 16
             },
             langs: {
